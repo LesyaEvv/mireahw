@@ -1,0 +1,7 @@
+who
+ls
+cd home
+ls
+wc test.txt
+tail test.txt 5
+cd ..

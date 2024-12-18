@@ -1,0 +1,6 @@
+*> Это комментарий
+(define PI 3.14159)
+(define COLORS << "red", "green", "blue" >>)
+MyValue = .[PI].
+Name = 'Konfig'
+Numbers = << 1, 2, 3, 4 >>
